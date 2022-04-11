@@ -61,4 +61,4 @@ class UserComponent {
 
 （1）. [读懂单一职责原则](https://segmentfault.com/a/1190000013100807)
 
-（1）. [细说SOLID原则](https://zhuanlan.zhihu.com/p/187516195)
+（2）. [细说SOLID原则](https://zhuanlan.zhihu.com/p/187516195)
